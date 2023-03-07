@@ -1,0 +1,44 @@
+D:\Учебные материалы\#Универ\Прога\куча\Лаба впф\LabaWPF\bin\Debug\net5.0-windows\LabaWPF.exe
+D:\Учебные материалы\#Универ\Прога\куча\Лаба впф\LabaWPF\bin\Debug\net5.0-windows\LabaWPF.deps.json
+D:\Учебные материалы\#Универ\Прога\куча\Лаба впф\LabaWPF\bin\Debug\net5.0-windows\LabaWPF.runtimeconfig.json
+D:\Учебные материалы\#Универ\Прога\куча\Лаба впф\LabaWPF\bin\Debug\net5.0-windows\LabaWPF.runtimeconfig.dev.json
+D:\Учебные материалы\#Универ\Прога\куча\Лаба впф\LabaWPF\bin\Debug\net5.0-windows\LabaWPF.dll
+D:\Учебные материалы\#Универ\Прога\куча\Лаба впф\LabaWPF\bin\Debug\net5.0-windows\ref\LabaWPF.dll
+D:\Учебные материалы\#Универ\Прога\куча\Лаба впф\LabaWPF\bin\Debug\net5.0-windows\LabaWPF.pdb
+D:\Учебные материалы\#Универ\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\LabaWPF.csproj.AssemblyReference.cache
+D:\Учебные материалы\#Универ\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Учебные материалы\#Универ\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\App.g.cs
+D:\Учебные материалы\#Универ\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\LabaWPF_MarkupCompile.cache
+D:\Учебные материалы\#Универ\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\LabaWPF_MarkupCompile.lref
+D:\Учебные материалы\#Универ\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Учебные материалы\#Универ\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\LabaWPF.g.resources
+D:\Учебные материалы\#Универ\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\LabaWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учебные материалы\#Универ\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\LabaWPF.AssemblyInfoInputs.cache
+D:\Учебные материалы\#Универ\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\LabaWPF.AssemblyInfo.cs
+D:\Учебные материалы\#Универ\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\LabaWPF.csproj.CoreCompileInputs.cache
+D:\Учебные материалы\#Универ\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\LabaWPF.dll
+D:\Учебные материалы\#Универ\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\ref\LabaWPF.dll
+D:\Учебные материалы\#Универ\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\LabaWPF.pdb
+D:\Учебные материалы\#Универ\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\LabaWPF.genruntimeconfig.cache
+D:\Учебные материалы\#Универ\1-й курс\Прога\куча\Лаба впф\LabaWPF\bin\Debug\net5.0-windows\LabaWPF.exe
+D:\Учебные материалы\#Универ\1-й курс\Прога\куча\Лаба впф\LabaWPF\bin\Debug\net5.0-windows\LabaWPF.deps.json
+D:\Учебные материалы\#Универ\1-й курс\Прога\куча\Лаба впф\LabaWPF\bin\Debug\net5.0-windows\LabaWPF.runtimeconfig.json
+D:\Учебные материалы\#Универ\1-й курс\Прога\куча\Лаба впф\LabaWPF\bin\Debug\net5.0-windows\LabaWPF.runtimeconfig.dev.json
+D:\Учебные материалы\#Универ\1-й курс\Прога\куча\Лаба впф\LabaWPF\bin\Debug\net5.0-windows\LabaWPF.dll
+D:\Учебные материалы\#Универ\1-й курс\Прога\куча\Лаба впф\LabaWPF\bin\Debug\net5.0-windows\LabaWPF.pdb
+D:\Учебные материалы\#Универ\1-й курс\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\LabaWPF.csproj.AssemblyReference.cache
+D:\Учебные материалы\#Универ\1-й курс\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Учебные материалы\#Универ\1-й курс\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\App.g.cs
+D:\Учебные материалы\#Универ\1-й курс\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\LabaWPF_MarkupCompile.cache
+D:\Учебные материалы\#Универ\1-й курс\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\LabaWPF_MarkupCompile.lref
+D:\Учебные материалы\#Универ\1-й курс\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Учебные материалы\#Универ\1-й курс\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\LabaWPF.g.resources
+D:\Учебные материалы\#Универ\1-й курс\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\LabaWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учебные материалы\#Универ\1-й курс\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\LabaWPF.AssemblyInfoInputs.cache
+D:\Учебные материалы\#Универ\1-й курс\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\LabaWPF.AssemblyInfo.cs
+D:\Учебные материалы\#Универ\1-й курс\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\LabaWPF.csproj.CoreCompileInputs.cache
+D:\Учебные материалы\#Универ\1-й курс\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\LabaWPF.dll
+D:\Учебные материалы\#Универ\1-й курс\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\refint\LabaWPF.dll
+D:\Учебные материалы\#Универ\1-й курс\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\LabaWPF.pdb
+D:\Учебные материалы\#Универ\1-й курс\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\LabaWPF.genruntimeconfig.cache
+D:\Учебные материалы\#Универ\1-й курс\Прога\куча\Лаба впф\LabaWPF\obj\Debug\net5.0-windows\ref\LabaWPF.dll

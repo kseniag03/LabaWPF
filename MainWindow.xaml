@@ -1,0 +1,52 @@
+﻿<Window x:Class="LabaWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabaWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <DockPanel>
+
+        <Menu DockPanel.Dock="Top" Background="#FFB3B7CE">
+            <MenuItem Header="File" Foreground="#FFF3F3F3">
+                <MenuItem Header="Create" Click = "CreateNewTab_Click" Background="#FFB3B7CE" BorderBrush="#FFEEF5FD"></MenuItem>
+                <MenuItem Header="Open" Click="OpenFile_Click" Background="#FFB3B7CE" BorderBrush="#FFEEF5FD">
+                </MenuItem>
+                <MenuItem Header="Save" Click="Save_Click" Background="#FFB3B7CE" BorderBrush="#FFEEF5FD">
+                </MenuItem>
+                <MenuItem Header="Save As" Click="SaveAs_Click" Background="#FFB3B7CE" BorderBrush="#FFEEF5FD">
+                </MenuItem>
+                <Separator />
+                <MenuItem Header="Exit" Click="Exit_Click" Background="#FFB3B7CE" BorderBrush="#FFEEF5FD"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Edit" Foreground="#FFF3F3F3" >
+            </MenuItem>
+        </Menu>
+
+        <ToolBar DockPanel.Dock="Bottom" Background="#FFE7E9F3">
+            <TextBox Width="150" Background="#FF959CC3" Foreground="#FFF3F3F3">Нерабочий поиск...</TextBox>
+        </ToolBar>
+        <ToolBar DockPanel.Dock="Top" FontFamily="Times New Roman" Background="#FFE7E9F3">
+            <Button FontWeight="Bold" Command="EditingCommands.ToggleBold">B</Button>
+            <Button FontStyle="Italic" Command="EditingCommands.ToggleItalic">I</Button>
+            <Button Command="EditingCommands.ToggleUnderline">U</Button>
+        </ToolBar>
+
+        <TabControl x:Name="tabControl" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" DockPanel.Dock="Top" SelectionChanged="Tab1_SelectionChanged" Background="{DynamicResource {x:Static SystemColors.InactiveCaptionBrushKey}}" FontFamily="Times New Roman" FontSize="16">
+            <TabControl.Foreground>
+                <SolidColorBrush Color="Black" Opacity="1"/>
+            </TabControl.Foreground>
+            <TabItem Height="0" Width="0"/>
+            <TabItem Header="+" x:Name="addTabButton" Foreground="#FFF3F3F3" BorderBrush="#FF3F3F46" Background="#FF959CC3">
+                <TabItem.OpacityMask>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black"/>
+                        <GradientStop Color="#FFB3B7CE" Offset="1"/>
+                    </LinearGradientBrush>
+                </TabItem.OpacityMask>
+            </TabItem>
+        </TabControl>
+
+    </DockPanel>
+</Window>
